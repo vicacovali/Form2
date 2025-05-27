@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    background-image: url(../images/dance1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: left;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    color:rgb(44, 9, 168);
+    
+}
+
+form {
+    width: 50%;
+    background-color: rgba(242, 226, 204, 0.075);
+    margin: auto;
+}
+
+input {
+    border: none;
+    border-radius: 5px;
+    /* border-bottom: 2px solid rgb(82, 14, 14); */
+}
+
+header {
+    font-family: "Bebas Neue", sans-serif;
+    color: rgb(22, 6, 163);
+    background-color: rgba(15, 9, 1, 0.075);
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
